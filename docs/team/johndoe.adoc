@@ -3,7 +3,9 @@
 :stylesDir: ../stylesheets
 
 ---
-== **PROJECT: AddressBook - Level 4**
+== PROJECT: AddressBook - Level 4
+
+---
 
 == Overview
 
@@ -40,6 +42,8 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 
 {you can add/remove categories in the list above}
 
+<<<
+
 == Contributions to the User Guide
 
 
@@ -48,6 +52,8 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 |===
 
 include::../UserGuide.adoc[tag=undoredo]
+
+<<<
 
 == Contributions to the Developer Guide
 
@@ -58,6 +64,8 @@ include::../UserGuide.adoc[tag=undoredo]
 include::../DeveloperGuide.adoc[tag=undoredo]
 
 ---
-== **PROJECT: PowerPointLabs**
+== PROJECT: PowerPointLabs
+
+---
 
 {Optionally (not graded, not counted for page limit), you may include other projects in your portfolio.}

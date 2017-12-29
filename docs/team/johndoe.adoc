@@ -3,7 +3,7 @@
 :stylesDir: ../stylesheets
 
 ---
-= Project: AddressBook - Level 4
+== **PROJECT: AddressBook - Level 4**
 
 == Overview
 
@@ -44,22 +44,20 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 
 
 |===
-|Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeted for end-users.|
+|_Given below are sections I contributed to the User Guide. They showcase my ability to write documentation targeted for end-users._
 |===
 
 include::../UserGuide.adoc[tag=undoredo]
 
 == Contributions to the Developer Guide
 
-[NOTE]
-====
-Given below are sections I contributed to the User Guide. They showcase my ability to write technical documentation and the technical depth of contributions to the project.
-====
+|===
+|_Given below are sections I contributed to the User Guide. They showcase my ability to write technical documentation and the technical depth of contributions to the project._
+|===
 
 include::../DeveloperGuide.adoc[tag=undoredo]
 
 ---
----
-= Project: PowerPointLabs
+== **PROJECT: PowerPointLabs**
 
 {Optionally (not graded, not counted for page limit), you may include other projects in your portfolio.}

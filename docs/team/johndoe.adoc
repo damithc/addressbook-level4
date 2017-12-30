@@ -20,7 +20,7 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 
 * *Minor enhancement*: added a history command that allows the user to navigate to previous commands using up/down keys.
 
-* *Code contributed*: [https://github.com[Functional code]] [https://github.com[Test code]] {give links to collated code files}
+* *Code contributed*: [https://github.com[Functional code]] [https://github.com[Test code]] _{give links to collated code files}_
 
 * *Other contributions*:
 
@@ -40,7 +40,7 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 *** Integrated a third party library (Natty) to the project
 *** Integrated a new Github plugin (CircleCI) to the team repo
 
-{you can add/remove categories in the list above}
+_{you can add/remove categories in the list above}_
 
 == Contributions to the User Guide
 
@@ -68,4 +68,4 @@ include::../DeveloperGuide.adoc[tag=dataencryption]
 
 ---
 
-{Optionally, you may include other projects in your portfolio.}
+_{Optionally, you may include other projects in your portfolio.}_

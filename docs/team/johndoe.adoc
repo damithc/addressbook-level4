@@ -2,7 +2,6 @@
 :imagesDir: ../images
 :stylesDir: ../stylesheets
 
----
 == PROJECT: AddressBook - Level 4
 
 ---
@@ -64,9 +63,9 @@ include::../DeveloperGuide.adoc[tag=undoredo]
 
 include::../DeveloperGuide.adoc[tag=dataencryption]
 
----
+
 == PROJECT: PowerPointLabs
 
 ---
 
-{Optionally (not graded, not counted for page limit), you may include other projects in your portfolio.}
+{Optionally, you may include other projects in your portfolio.}

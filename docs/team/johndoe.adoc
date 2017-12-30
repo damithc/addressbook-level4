@@ -42,8 +42,6 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 
 {you can add/remove categories in the list above}
 
-<<<
-
 == Contributions to the User Guide
 
 
@@ -53,7 +51,7 @@ AddressBook - Level 4 is a desktop address book application used for teaching So
 
 include::../UserGuide.adoc[tag=undoredo]
 
-<<<
+include::../UserGuide.adoc[tag=dataencryption]
 
 == Contributions to the Developer Guide
 
@@ -62,6 +60,8 @@ include::../UserGuide.adoc[tag=undoredo]
 |===
 
 include::../DeveloperGuide.adoc[tag=undoredo]
+
+include::../DeveloperGuide.adoc[tag=dataencryption]
 
 ---
 == PROJECT: PowerPointLabs
